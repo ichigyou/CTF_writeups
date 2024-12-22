@@ -3,3 +3,7 @@ body{
     background: pink;
     text-align: center;
 }
+
+html {
+    scroll-behavior: smooth;
+}
